@@ -1,0 +1,12 @@
+{
+  "login": {
+    "email": "test@example.com",
+    "password": "password123",
+    "token": "this-is-a-fake-token",
+    "user": {
+      "id": 1,
+      "name": "Test User",
+      "email": "test@example.com"
+    }
+  }
+}
